@@ -1,0 +1,13 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "HiBar Insulation",
+  "name_for_model": "hibar_insulation",
+  "description_for_human": "HiBAR project planning and Lower Mainland enquiry information.",
+  "description_for_model": "Independent HiBAR material, assembly and project planning resource with 16 articles and 27 Lower Mainland city guides. PSI is the assigned city enquiry contact. No callable API or automated enquiry submission is provided.",
+  "auth": {
+    "type": "none"
+  },
+  "logo_url": "https://www.hibarinsulation.com/assets/logo.svg",
+  "contact_email": "build@buildershaus.com",
+  "legal_info_url": "https://www.hibarinsulation.com/privacy/"
+}

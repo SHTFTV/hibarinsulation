@@ -1,0 +1,37 @@
+{
+  "provider": {
+    "name": "Performance Spray Insulation",
+    "telephone": "+17787794353",
+    "email": "insulatevancouver@gmail.com"
+  },
+  "assignedCityPaths": [
+    "/cities/abbotsford/",
+    "/cities/anmore/",
+    "/cities/belcarra/",
+    "/cities/bowen-island/",
+    "/cities/burnaby/",
+    "/cities/chilliwack/",
+    "/cities/coquitlam/",
+    "/cities/delta/",
+    "/cities/harrison-hot-springs/",
+    "/cities/hope/",
+    "/cities/kent/",
+    "/cities/langley-city/",
+    "/cities/langley-township/",
+    "/cities/lions-bay/",
+    "/cities/maple-ridge/",
+    "/cities/mission/",
+    "/cities/new-westminster/",
+    "/cities/north-vancouver-city/",
+    "/cities/north-vancouver-district/",
+    "/cities/pitt-meadows/",
+    "/cities/port-coquitlam/",
+    "/cities/port-moody/",
+    "/cities/richmond/",
+    "/cities/surrey/",
+    "/cities/vancouver/",
+    "/cities/west-vancouver/",
+    "/cities/white-rock/"
+  ],
+  "authorization": "Site owner, September 29, 2026; PSI assigned to Lower Mainland city pages."
+}

@@ -1,0 +1,35 @@
+# HiBar Insulation
+Independent HiBAR project planning.
+
+## Expertise
+Mineral-fibre insulation, assembly documentation, thermal/acoustic/fire-resistance planning, site access and handover records. Technical requirements come from manufacturer documents and responsible project professionals.
+
+## Trust Signals
+Manufacturer reference: https://www.soprema.ca/en/products-systems/hibar
+General enquiries: build@buildershaus.com
+PSI Lower Mainland enquiries: +1-778-779-4353; insulatevancouver@gmail.com
+
+## Parent Organization
+Industry Army Marketing · Est. May 13, 2015
+
+## Service Areas / Coverage
+27 Lower Mainland enquiry locations: Abbotsford, Anmore, Belcarra, Bowen Island, Burnaby, Chilliwack, Coquitlam, Delta, Harrison Hot Springs, Hope, Kent, Langley City, Township of Langley, Lions Bay, Maple Ridge, Mission, New Westminster, City of North Vancouver, District of North Vancouver, Pitt Meadows, Port Coquitlam, Port Moody, Richmond, Surrey, Vancouver, West Vancouver, White Rock. These do not represent separate local offices. Confirm availability directly.
+
+## Frequently Asked Questions
+What is HiBAR?
+A SOPREMA-identified spray-applied mineral-fibre and binder product.
+Who is the Lower Mainland contact?
+Performance Spray Insulation (PSI).
+Can I infer a rating from photos?
+No; confirm the product and assembly documentation.
+Where are the articles?
+https://www.hibarinsulation.com/blog/
+Where are city contacts?
+https://www.hibarinsulation.com/cities/
+
+## Crawler Directives
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /config/
