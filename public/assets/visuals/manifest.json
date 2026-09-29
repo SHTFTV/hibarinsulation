@@ -1,0 +1,165 @@
+[
+  {
+    "page": "preview.html",
+    "image": "assets/visuals/journal-overview.svg",
+    "caption": "Define the work \u2192 Plan delivery \u2192 Keep the record. A planning map for the HiBAR journal: follow the guides from defining work to retaining the project record.",
+    "alt": "HiBAR planning diagram: define the work \u2014 understand product and project scope; plan delivery \u2014 coordinate access and documentation; keep the record \u2014 capture inspection and handover.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "homepage-carousel.html",
+    "image": "assets/visuals/journal-overview.svg",
+    "caption": "Define the work \u2192 Plan delivery \u2192 Keep the record. A planning map for the HiBAR journal: follow the guides from defining work to retaining the project record.",
+    "alt": "HiBAR planning diagram: define the work \u2014 understand product and project scope; plan delivery \u2014 coordinate access and documentation; keep the record \u2014 capture inspection and handover.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/index.html",
+    "image": "assets/visuals/journal-overview.svg",
+    "caption": "Define the work \u2192 Plan delivery \u2192 Keep the record. A planning map for the HiBAR journal: follow the guides from defining work to retaining the project record.",
+    "alt": "HiBAR planning diagram: define the work \u2014 understand product and project scope; plan delivery \u2014 coordinate access and documentation; keep the record \u2014 capture inspection and handover.",
+    "kind": "original explanatory diagram",
+    "photograph": {
+      "image": "assets/visuals/hibar-soprema-product.png",
+      "caption": "HiBAR applied to an exposed roof deck and joists, as pictured by its manufacturer. The guides below cover product identification, scope, access, inspections and handover for project planning.",
+      "credit": "SOPREMA",
+      "source": "https://www.soprema.ca/en/products-systems/hibar"
+    }
+  },
+  {
+    "page": "blog/reading-a-hibar-fireproofing-scope/index.html",
+    "image": "assets/visuals/reading-a-hibar-fireproofing-scope.svg",
+    "caption": "Scope map \u2192 Design reference \u2192 Associated work. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: scope map \u2014 mark areas included and excluded; design reference \u2014 link each area to its assembly; associated work \u2014 record access and preparation.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-product-and-assembly-basics/index.html",
+    "image": "assets/visuals/hibar-product-and-assembly-basics.svg",
+    "caption": "Product \u2192 Assembly \u2192 Project. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: product \u2014 confirm hibar material identity; assembly \u2014 match the specified building system; project \u2014 check the applicable design records.",
+    "kind": "original explanatory diagram",
+    "photograph": {
+      "image": "assets/visuals/hibar-soprema-product.png",
+      "caption": "SOPREMA\u2019s HiBAR product photograph shows a coated roof deck and exposed joists. It identifies the material in context; the project\u2019s specified assembly and inspection records establish the required performance.",
+      "credit": "SOPREMA",
+      "source": "https://www.soprema.ca/en/products-systems/hibar"
+    }
+  },
+  {
+    "page": "blog/hibar-tender-comparison/index.html",
+    "image": "assets/visuals/hibar-tender-comparison.svg",
+    "caption": "Same design \u2192 Same inclusions \u2192 Clear differences. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: same design \u2014 compare a shared scope and assembly; same inclusions \u2014 align access and preparation; clear differences \u2014 record exclusions before award.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-delivery-and-material-records/index.html",
+    "image": "assets/visuals/hibar-delivery-and-material-records.svg",
+    "caption": "Storage \u2192 Delivery \u2192 Work area. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: storage \u2014 agree the protected storage area; delivery \u2014 record labels and received condition; work area \u2014 link material records to location.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-after-trade-damage/index.html",
+    "image": "assets/visuals/hibar-after-trade-damage.svg",
+    "caption": "Locate damage \u2192 Review repair \u2192 Close record. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: locate damage \u2014 record the affected area and stage; review repair \u2014 confirm the approved repair method; close record \u2014 retain review and inspection results.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-repair-versus-replacement-review/index.html",
+    "image": "assets/visuals/hibar-repair-versus-replacement-review.svg",
+    "caption": "Survey \u2192 Find the cause \u2192 Compare options. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: survey \u2014 map visible and adjacent conditions; find the cause \u2014 review why the damage occurred; compare options \u2014 scope repair and replacement fully.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-services-and-penetrations/index.html",
+    "image": "assets/visuals/hibar-services-and-penetrations.svg",
+    "caption": "Structural coating \u2192 Service routes \u2192 Penetrations. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: structural coating \u2014 define the treated building element; service routes \u2014 coordinate pipes and cable access; penetrations \u2014 identify separate firestop requirements.",
+    "kind": "original explanatory diagram",
+    "photograph": {
+      "image": "assets/visuals/hibar-soprema-product.png",
+      "caption": "The HiBAR-coated roof deck and joists in this manufacturer image illustrate the overhead elements that must be coordinated with service routes. The image does not establish a penetration\u2019s firestop requirements.",
+      "credit": "SOPREMA",
+      "source": "https://www.soprema.ca/en/products-systems/hibar"
+    }
+  },
+  {
+    "page": "blog/hibar-work-in-occupied-buildings/index.html",
+    "image": "assets/visuals/hibar-work-in-occupied-buildings.svg",
+    "caption": "Occupied space \u2192 Work zone \u2192 Reopening. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: occupied space \u2014 record users and essential access; work zone \u2014 review separation and work sequence; reopening \u2014 agree who accepts the completed area.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-appearance-and-colour/index.html",
+    "image": "assets/visuals/hibar-appearance-and-colour.svg",
+    "caption": "Visual brief \u2192 Finish review \u2192 Separate approvals. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: visual brief \u2014 describe the intended appearance; finish review \u2014 check proposed changes with suppliers; separate approvals \u2014 keep appearance and compliance distinct.",
+    "kind": "original explanatory diagram",
+    "photograph": {
+      "image": "assets/visuals/hibar-soprema-product.png",
+      "caption": "The manufacturer\u2019s HiBAR photograph shows the textured appearance across a roof deck and joists. Use an agreed project sample to review the intended finish; this photograph does not promise an identical colour or texture.",
+      "credit": "SOPREMA",
+      "source": "https://www.soprema.ca/en/products-systems/hibar"
+    }
+  },
+  {
+    "page": "blog/hibar-drawing-and-submittal-pack/index.html",
+    "image": "assets/visuals/hibar-drawing-and-submittal-pack.svg",
+    "caption": "Project references \u2192 Product documents \u2192 Review record. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: project references \u2014 collect current drawings and revisions; product documents \u2014 attach current supporting documents; review record \u2014 track comments and acceptance status.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-thickness-inspection-planning/index.html",
+    "image": "assets/visuals/hibar-thickness-inspection-planning.svg",
+    "caption": "Design requirement \u2192 Inspection access \u2192 Traceable result. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: design requirement \u2014 identify project-specific criteria; inspection access \u2014 plan when and where checks occur; traceable result \u2014 record location and inspection outcome.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-substrate-review/index.html",
+    "image": "assets/visuals/hibar-substrate-review.svg",
+    "caption": "Existing surface \u2192 Preparation \u2192 Review point. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: existing surface \u2014 record material and surface condition; preparation \u2014 confirm required preparation steps; review point \u2014 check readiness before application.",
+    "kind": "original explanatory diagram",
+    "photograph": {
+      "image": "assets/visuals/hibar-soprema-product.png",
+      "caption": "This HiBAR reference photograph shows the completed coating over overhead building elements. A substrate review concerns the surface beneath that coating, which cannot be assessed from the finished photograph.",
+      "credit": "SOPREMA",
+      "source": "https://www.soprema.ca/en/products-systems/hibar"
+    }
+  },
+  {
+    "page": "blog/hibar-commercial-access-plan/index.html",
+    "image": "assets/visuals/hibar-commercial-access-plan.svg",
+    "caption": "Equipment route \u2192 Overhead space \u2192 Work sequence. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: equipment route \u2014 map entry and movement clearances; overhead space \u2014 show services and obstructions; work sequence \u2014 coordinate access with other trades.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-project-enquiry-checklist/index.html",
+    "image": "assets/visuals/hibar-project-enquiry-checklist.svg",
+    "caption": "Building + objective \u2192 Evidence \u2192 Requested response. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: building + objective \u2014 explain location and project purpose; evidence \u2014 attach drawings and labelled photos; requested response \u2014 ask for scope and availability review.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-handover-documents/index.html",
+    "image": "assets/visuals/hibar-handover-documents.svg",
+    "caption": "Installed scope \u2192 Inspection closeout \u2192 Future work. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: installed scope \u2014 retain final locations and revisions; inspection closeout \u2014 resolve and record outstanding items; future work \u2014 keep documents available for repairs.",
+    "kind": "original explanatory diagram"
+  },
+  {
+    "page": "blog/hibar-photo-documentation/index.html",
+    "image": "assets/visuals/hibar-photo-documentation.svg",
+    "caption": "Overview \u2192 Detail + label \u2192 Written evidence. This diagram explains the review sequence covered on this page.",
+    "alt": "HiBAR planning diagram: overview \u2014 show the area and project stage; detail + label \u2014 retain original files and clear labels; written evidence \u2014 connect images to project records.",
+    "kind": "original explanatory diagram"
+  }
+]
