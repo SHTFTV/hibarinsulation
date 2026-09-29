@@ -25,3 +25,5 @@
 
 /* Preserve the reference heading spacing regardless of the host site's h2 rules. */
 .business-floater .business-name{letter-spacing:-.04em}
+
+.business-floater .business-close{font-family:Arial,sans-serif;font-weight:400;padding:1px 6px}
