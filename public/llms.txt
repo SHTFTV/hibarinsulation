@@ -33,3 +33,10 @@ Allow: /
 Disallow: /api/
 Disallow: /admin/
 Disallow: /config/
+
+## Service enquiries
+HiBAR fire-spray insulation repairs: https://www.hibarinsulation.com/services/hibar-repairs/
+New installations: https://www.hibarinsulation.com/services/new-hibar-installation/
+Complete redos, removal and replacement: https://www.hibarinsulation.com/services/hibar-removal-replacement/
+Service overview: https://www.hibarinsulation.com/services/
+All 16 blog articles: https://www.hibarinsulation.com/blog/
